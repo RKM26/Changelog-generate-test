@@ -7,3 +7,4 @@ console.log('fix again');
 console.log('feat again');
 console.log('fix 1');
 console.log('master');
+console.log('non regex commit');
