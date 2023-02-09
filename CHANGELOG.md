@@ -1,3 +1,9 @@
+## 7.0.0 (2023-02-09)
+
+##### Performance Improvements
+
+*  perf master ([74db1643](https://github.com/RKM26/Changelog-generate-test/commit/74db1643c3ed8ec94a328115e128a51aed00ccd3))
+
 ## 6.0.0 (2023-02-09)
 
 ### 5.1.0 (2023-02-09)
