@@ -1,3 +1,9 @@
+#### 5.0.2 (2023-02-09)
+
+##### Bug Fixes
+
+*  fix1 added in dev ([9b273ea4](https://github.com/RKM26/Changelog-generate-test/commit/9b273ea44c1122b52ae3e28a1afb1f47f884d765))
+
 #### 5.0.1 (2023-02-09)
 
 ## 5.0.0 (2023-02-09)
