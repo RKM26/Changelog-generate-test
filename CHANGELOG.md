@@ -1,3 +1,36 @@
+## 10.0.0 (2023-02-13)
+
+##### New Features
+
+*  develop 1 feat ([67c87651](https://github.com/RKM26/Changelog-generate-test/commit/67c87651e7b2cc59a9d6c8bc6cc3495ba201e4df))
+
+##### Bug Fixes
+
+*  develop 3 fix ([8cd6c2a1](https://github.com/RKM26/Changelog-generate-test/commit/8cd6c2a1f1765be010ba75f1f1ebb852c47399fe))
+*  develop 2 fix ([fe0476c2](https://github.com/RKM26/Changelog-generate-test/commit/fe0476c2dc591631ae0059b65df789ced28034f7))
+
+##### Performance Improvements
+
+*  dev branch ([7de5b32b](https://github.com/RKM26/Changelog-generate-test/commit/7de5b32bcf8793b3324ba1e357018d92a51c7489))
+
+## 10.0.0 (2023-02-13)
+
+##### Performance Improvements
+
+*  dev branch ([7de5b32b](https://github.com/RKM26/Changelog-generate-test/commit/7de5b32bcf8793b3324ba1e357018d92a51c7489))
+
+## 10.0.0 (2023-02-13)
+
+##### Performance Improvements
+
+*  dev branch ([7de5b32b](https://github.com/RKM26/Changelog-generate-test/commit/7de5b32bcf8793b3324ba1e357018d92a51c7489))
+
+## 10.0.0 (2023-02-13)
+
+##### Performance Improvements
+
+*  dev branch ([7de5b32b](https://github.com/RKM26/Changelog-generate-test/commit/7de5b32bcf8793b3324ba1e357018d92a51c7489))
+
 ## 9.0.0 (2023-02-09)
 
 #### 8.1.2 (2023-02-09)
