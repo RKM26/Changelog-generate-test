@@ -1,3 +1,17 @@
+### 6.2.0 (2023-02-13)
+
+##### New Features
+
+*  dev branch 3 commit ([4a4f0153](https://github.com/RKM26/Changelog-generate-test/commit/4a4f015341dfbbe145fa99dc8a291eb581ce6d8e))
+
+##### Bug Fixes
+
+*  dev branch 3 commit ([32d8cd2e](https://github.com/RKM26/Changelog-generate-test/commit/32d8cd2ef4e1ee92349eb022c5e965e8297216b7))
+
+##### Performance Improvements
+
+*  dev branch 3 commit ([04503790](https://github.com/RKM26/Changelog-generate-test/commit/04503790d3c35f7279433e8ce70ddff77a33f90a))
+
 ### 6.1.0 (2023-02-13)
 
 ## 6.0.0 (2023-02-13)
