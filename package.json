@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "release:major": "changelog -M ",
-    "release:minor": "changelog -m ~",
+    "release:minor": "changelog -m ",
     "release:patch": "changelog -p "
   },
   "repository": {
